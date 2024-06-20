@@ -1,0 +1,57 @@
+
+ table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+
+  p{
+  display: none;
+  }
+
+  .details{
+    text-align: center;
+  }
+
+  h1{
+    text-align: center;
+    color: crimson;
+  }
+
+  body{
+    background-color: yellowgreen;
+  }
+  .table{
+    position: relative;
+    margin-left: 550px;
+    border: 1px black solid;
+    padding: 10px;
+    width: 200px;
+    border-color: blueviolet;
+    border-radius: 50px;
+    border-width: 10px;
+  }
+
+  .table label{
+    color:yellow;
+    font-weight: bolder;
+  }
+
+  .table{
+    background-image: radial-gradient(blue,black);
+  }
+
+  button{
+    border-radius: 50px;
+    width: 100px;
+    cursor: pointer;
+    background-image: repeating-radial-gradient(green,yellow);
+  }
+
